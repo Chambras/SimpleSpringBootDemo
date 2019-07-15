@@ -1,4 +1,7 @@
 # Simple Spring Boot Web Page
+
+[![Build Status](https://dev.azure.com/csudemos/SimpleSpringBootDemo/_apis/build/status/Chambras.SimpleSpringBootDemo?branchName=master)](https://dev.azure.com/csudemos/SimpleSpringBootDemo/_build/latest?definitionId=17&branchName=master)
+
 A simple Spring Boot web page that shows how to create a CI/CD pipeline using Azure DevOps.
 All tasks for the CI part of the pipeline are defined in the file _**azure-pipelines.yml**_ which can be easily imported in any Azure DevOps project.
 
